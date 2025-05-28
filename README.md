@@ -18,8 +18,7 @@ A clean, full-stack task management application built with vanilla JavaScript an
 
 ## 📸 Demo
 
-> [Live Demo Link (Render/Vercel)](https://your-deployed-url.com)
-> *(Add this after deployment)*
+> [Live Demo Link (Render/Vercel)](https://task-app-6ojg.onrender.com)
 
 ---
 
